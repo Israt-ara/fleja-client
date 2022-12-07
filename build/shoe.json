@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Pink Shoe",
+        "buyingPrice": "200",
+        "location": "Mirpur DOSH",
+        "resalePrice": "50",
+        "category": "Women Shoe",
+        "usedTime": "1 year",
+        "sellerName": "Rafsan",
+        "date": "22-11-2022",
+        "img": "https://i.ibb.co/84QkJJh/shoes1.jpg"
+    },
+    {
+        "name": "Yellow Sneakers",
+        "buyingPrice": "500",
+        "location": "Green Road",
+        "resalePrice": "60",
+        "category": "Women Shoe",
+        "usedTime": "1 year",
+        "sellerName": "Piya",
+        "date": "22-11-2022",
+        "img": "https://i.ibb.co/8rr8mzQ/shoes3.jpg"
+    },
+    {
+        "name": "Pink Sneakers",
+        "buyingPrice": "900",
+        "location": "Dhanmondi",
+        "resalePrice": "70",
+        "category": "Women Shoe",
+        "usedTime": "1.5 year",
+        "sellerName": "Promi",
+        "date": "22-11-2022",
+        "img": "https://i.ibb.co/NyJPphK/shoes2.jpg"
+    }
+]

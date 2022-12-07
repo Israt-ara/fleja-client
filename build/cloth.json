@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Yellow Frok",
+        "buyingPrice": "200",
+        "location": "Mirpur DOSH",
+        "resalePrice": "50",
+        "category": "Women Cloth",
+        "usedTime": "1 year",
+        "sellerName": "Mina",
+        "date": "21-11-2022",
+        "img": "https://i.ibb.co/Xx1f93Z/cloth2.png"
+    },
+    {
+        "name": "Party Dress",
+        "buyingPrice": "500",
+        "location": "Green Road",
+        "resalePrice": "60",
+        "category": "Women Cloth",
+        "usedTime": "1 year",
+        "sellerName": "Rina",
+        "date": "20-11-2022",
+        "img": "https://i.ibb.co/8mC1JLr/cloth3.jpg"
+    },
+    {
+        "name": "White kurti",
+        "buyingPrice": "900",
+        "location": "Dhanmondi",
+        "resalePrice": "70",
+        "category": "Women Cloth",
+        "usedTime": "1.5 year",
+        "sellerName": "Mithu",
+        "date": "22-11-2022",
+        "img": "https://i.ibb.co/k9R75Cd/cloth1.jpg"
+    }
+]
